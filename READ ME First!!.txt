@@ -1,0 +1,12 @@
+STEPS
+
+1. Visit Netlify.com
+
+2. Click sign-in and the below details of my Account:
+	Username: Connectwithshirya@gmail.com
+	Passsword: *blessed1
+3. On the MENU go to sites and then DRAG and DROP the folder containing the web pages here!
+
+4. Allow to Upload, Once Uploaded, it automatically start the deployment to CDN.
+
+5. When Deployment is successful, then when now create Custom Domain to be connected to the site.
